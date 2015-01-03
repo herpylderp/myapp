@@ -1,0 +1,40 @@
+import com.github.jengelman.gradle.plugins.shadow.transformers.ServiceFileTransformer
+
+apply plugin: 'application'
+apply plugin: 'shadow'
+
+mainClassName = 'com.me.myapp.server.MyAppServer'
+
+buildscript {
+	repositories {
+		jcenter()
+	}
+	dependencies {
+		classpath 'com.github.jengelman.gradle.plugins:shadow:0.8'
+	}
+}
+
+dependencies {
+	compile project(':myapp-shared')
+	compile (
+		'io.dropwizard:dropwizard-core:0.7.1',
+		'com.sun.jersey:jersey-client:1.12'
+	)
+}
+
+shadow {
+	outputFile new File(destinationDir, "${outputJarBaseName}.${extension}")
+	transformer(ServiceFileTransformer)
+	exclude 'META-INF/*.DSA'
+	exclude 'META-INF/*.RSA'
+}
+
+jar {
+	manifest {
+		attributes 'Main-Class': mainClassName
+	}
+}
+
+artifacts {
+	shadowJar
+}

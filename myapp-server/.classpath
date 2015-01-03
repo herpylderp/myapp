@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/groovy"/>
+	<classpathentry kind="src" path="src/main/resources"/>
+	<classpathentry kind="src" path="src/test/groovy"/>
+	<classpathentry kind="src" path="src/test/resources"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER" exported="true"/>
+	<classpathentry kind="con" path="GROOVY_DSL_SUPPORT" exported="true"/>
+	<classpathentry kind="output" path="bin"/>
+	<classpathentry kind="src" path="/myapp-shared" exported="true"/>
+	<classpathentry sourcepath="C:/Users/zharvey/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy-all/2.3.7/430d925914612a724c2cda9ddd6d3df58723abe6/groovy-all-2.3.7-sources.jar" kind="lib" path="C:/Users/zharvey/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy-all/2.3.7/feb6df9c6936c797159091a451ed8590d67101dc/groovy-all-2.3.7.jar" exported="true"/>
+	<classpathentry kind="lib" path="C:/Users/zharvey/.m2/repository/com/google/inject/guice/3.0/guice-3.0.jar" exported="true"/>
+	<classpathentry kind="lib" path="C:/Users/zharvey/.m2/repository/io/dropwizard/dropwizard-core/0.7.1/dropwizard-core-0.7.1.jar" exported="true"/>
+	<classpathentry sourcepath="C:/Users/zharvey/.gradle/caches/modules-2/files-2.1/com.sun.jersey/jersey-client/1.12/4d49f92ccd0f95c13fe5ec6707f12de114122ded/jersey-client-1.12-sources.jar" kind="lib" path="C:/Users/zharvey/.gradle/caches/modules-2/files-2.1/com.sun.jersey/jersey-client/1.12/d468a05f81031e8b5470f829e3dcedb399d369a2/jersey-client-1.12.jar" exported="true"/>
+	<classpathentry kind="lib" path="C:/Users/zharvey/.m2/repository/javax/inject/javax.inject/1/javax.inject-1.jar" exported="true"/>
+	<classpathentry kind="lib" path="C:/Users/zharvey/.m2/repository/aopalliance/aopalliance/1.0/aopalliance-1.0.jar" exported="true"/>
+	<classpathentry kind="lib" path="C:/Users/zharvey/.m2/repository/asm/asm/3.1/asm-3.1.jar" exported="true"/>
+	<classpathentry sourcepath="C:/Users/zharvey/.gradle/caches/modules-2/files-2.1/org.sonatype.sisu.inject/cglib/2.2.1-v20090111/65030c30094de36e3fddbc22442d47cbf547741f/cglib-2.2.1-v20090111-sources.jar" kind="lib" path="C:/Users/zharvey/.gradle/caches/modules-2/files-2.1/org.sonatype.sisu.inject/cglib/2.2.1-v20090111/7ce5e983fd0e6c78346f4c9cbfa39d83049dda2/cglib-2.2.1-v20090111.jar" exported="true"/>
+	<classpathentry kind="lib" path="C:/Users/zharvey/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.3.0/jackson-annotations-2.3.0.jar" exported="true"/>
+	<classpathentry kind="lib" path="C:/Users/zharvey/.m2/repository/com/google/guava/guava/17.0/guava-17.0.jar" exported="true"/>
+	<classpathentry kind="lib" path="C:/Users/zharvey/.m2/repository/com/google/code/findbugs/jsr305/2.0.3/jsr305-2.0.3.jar" exported="true"/>
+	<classpathentry kind="lib" path="C:/Users/zharvey/.m2/repository/joda-time/joda-time/2.3/joda-time-2.3.jar" exported="true"/>
+	<classpathentry kind="lib" path="C:/Users/zharvey/.m2/repository/io/dropwizard/dropwizard-util/0.7.1/dropwizard-util-0.7.1.jar" exported="true"/>
+	<classpathentry kind="lib" path="C:/Users/zharvey/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.3.3/jackson-core-2.3.3.jar" exported="true"/>
+	<classpathentry kind="lib" path="C:/Users/zharvey/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.3.3/jackson-databind-2.3.3.jar" exported="true"/>
+	<classpathentry kind="lib" path="C:/Users/zharvey/.m2/repository/com/fasterxml/jackson/datatype/jackson-datatype-guava/2.3.3/jackson-datatype-guava-2.3.3.jar" exported="true"/>
+	<classpathentry kind="lib" path="C:/Users/zharvey/.m2/repository/com/fasterxml/jackson/module/jackson-module-afterburner/2.3.3/jackson-module-afterburner-2.3.3.jar" exported="true"/>
+	<classpathentry kind="lib" path="C:/Users/zharvey/.m2/repository/com/fasterxml/jackson/datatype/jackson-datatype-joda/2.3.3/jackson-datatype-joda-2.3.3.jar" exported="true"/>
+	<classpathentry kind="lib" path="C:/Users/zharvey/.m2/repository/org/slf4j/slf4j-api/1.7.6/slf4j-api-1.7.6.jar" exported="true"/>
+	<classpathentry kind="lib" path="C:/Users/zharvey/.m2/repository/ch/qos/logback/logback-core/1.1.2/logback-core-1.1.2.jar" exported="true"/>
+	<classpathentry kind="lib" path="C:/Users/zharvey/.m2/repository/ch/qos/logback/logback-classic/1.1.2/logback-classic-1.1.2.jar" exported="true"/>
+	<classpathentry kind="lib" path="C:/Users/zharvey/.m2/repository/io/dropwizard/dropwizard-jackson/0.7.1/dropwizard-jackson-0.7.1.jar" exported="true"/>
+	<classpathentry kind="lib" path="C:/Users/zharvey/.m2/repository/javax/validation/validation-api/1.1.0.Final/validation-api-1.1.0.Final.jar" exported="true"/>
+	<classpathentry kind="lib" path="C:/Users/zharvey/.m2/repository/org/jboss/logging/jboss-logging/3.1.3.GA/jboss-logging-3.1.3.GA.jar" exported="true"/>
+	<classpathentry kind="lib" path="C:/Users/zharvey/.m2/repository/com/fasterxml/classmate/1.0.0/classmate-1.0.0.jar" exported="true"/>
+	<classpathentry kind="lib" path="C:/Users/zharvey/.m2/repository/org/hibernate/hibernate-validator/5.1.1.Final/hibernate-validator-5.1.1.Final.jar" exported="true"/>
+	<classpathentry kind="lib" path="C:/Users/zharvey/.m2/repository/javax/el/javax.el-api/2.2.5/javax.el-api-2.2.5.jar" exported="true"/>
+	<classpathentry kind="lib" path="C:/Users/zharvey/.m2/repository/org/glassfish/web/javax.el/2.2.6/javax.el-2.2.6.jar" exported="true"/>
+	<classpathentry kind="lib" path="C:/Users/zharvey/.m2/repository/io/dropwizard/dropwizard-validation/0.7.1/dropwizard-validation-0.7.1.jar" exported="true"/>
+	<classpathentry kind="lib" path="C:/Users/zharvey/.m2/repository/com/fasterxml/jackson/dataformat/jackson-dataformat-yaml/2.3.3/jackson-dataformat-yaml-2.3.3.jar" exported="true"/>
+	<classpathentry kind="lib" path="C:/Users/zharvey/.m2/repository/commons-lang/commons-lang/2.6/commons-lang-2.6.jar" exported="true"/>
+	<classpathentry kind="lib" path="C:/Users/zharvey/.m2/repository/io/dropwizard/dropwizard-configuration/0.7.1/dropwizard-configuration-0.7.1.jar" exported="true"/>
+	<classpathentry kind="lib" path="C:/Users/zharvey/.m2/repository/com/codahale/metrics/metrics-core/3.0.2/metrics-core-3.0.2.jar" exported="true"/>
+	<classpathentry kind="lib" path="C:/Users/zharvey/.m2/repository/com/codahale/metrics/metrics-logback/3.0.2/metrics-logback-3.0.2.jar" exported="true"/>
+	<classpathentry kind="lib" path="C:/Users/zharvey/.m2/repository/org/slf4j/jul-to-slf4j/1.7.6/jul-to-slf4j-1.7.6.jar" exported="true"/>
+	<classpathentry kind="lib" path="C:/Users/zharvey/.m2/repository/org/slf4j/log4j-over-slf4j/1.7.6/log4j-over-slf4j-1.7.6.jar" exported="true"/>
+	<classpathentry kind="lib" path="C:/Users/zharvey/.m2/repository/org/slf4j/jcl-over-slf4j/1.7.6/jcl-over-slf4j-1.7.6.jar" exported="true"/>
+	<classpathentry kind="lib" path="C:/Users/zharvey/.m2/repository/org/eclipse/jetty/jetty-util/9.0.7.v20131107/jetty-util-9.0.7.v20131107.jar" exported="true"/>
+	<classpathentry kind="lib" path="C:/Users/zharvey/.m2/repository/io/dropwizard/dropwizard-logging/0.7.1/dropwizard-logging-0.7.1.jar" exported="true"/>
+	<classpathentry kind="lib" path="C:/Users/zharvey/.m2/repository/org/eclipse/jetty/orbit/javax.servlet/3.0.0.v201112011016/javax.servlet-3.0.0.v201112011016.jar" exported="true"/>
+	<classpathentry kind="lib" path="C:/Users/zharvey/.m2/repository/org/eclipse/jetty/jetty-http/9.0.7.v20131107/jetty-http-9.0.7.v20131107.jar" exported="true"/>
+	<classpathentry kind="lib" path="C:/Users/zharvey/.m2/repository/org/eclipse/jetty/jetty-io/9.0.7.v20131107/jetty-io-9.0.7.v20131107.jar" exported="true"/>
+	<classpathentry kind="lib" path="C:/Users/zharvey/.m2/repository/org/eclipse/jetty/jetty-server/9.0.7.v20131107/jetty-server-9.0.7.v20131107.jar" exported="true"/>
+	<classpathentry kind="lib" path="C:/Users/zharvey/.m2/repository/io/dropwizard/dropwizard-lifecycle/0.7.1/dropwizard-lifecycle-0.7.1.jar" exported="true"/>
+	<classpathentry kind="lib" path="C:/Users/zharvey/.m2/repository/io/dropwizard/dropwizard-metrics/0.7.1/dropwizard-metrics-0.7.1.jar" exported="true"/>
+	<classpathentry kind="lib" path="C:/Users/zharvey/.m2/repository/com/sun/jersey/jersey-core/1.18.1/jersey-core-1.18.1.jar" exported="true"/>
+	<classpathentry kind="lib" path="C:/Users/zharvey/.m2/repository/com/sun/jersey/jersey-server/1.18.1/jersey-server-1.18.1.jar" exported="true"/>
+	<classpathentry kind="lib" path="C:/Users/zharvey/.m2/repository/com/sun/jersey/jersey-servlet/1.18.1/jersey-servlet-1.18.1.jar" exported="true"/>
+	<classpathentry kind="lib" path="C:/Users/zharvey/.m2/repository/com/codahale/metrics/metrics-annotation/3.0.2/metrics-annotation-3.0.2.jar" exported="true"/>
+	<classpathentry kind="lib" path="C:/Users/zharvey/.m2/repository/com/codahale/metrics/metrics-jersey/3.0.2/metrics-jersey-3.0.2.jar" exported="true"/>
+	<classpathentry kind="lib" path="C:/Users/zharvey/.m2/repository/com/fasterxml/jackson/jaxrs/jackson-jaxrs-base/2.3.3/jackson-jaxrs-base-2.3.3.jar" exported="true"/>
+	<classpathentry kind="lib" path="C:/Users/zharvey/.m2/repository/com/fasterxml/jackson/module/jackson-module-jaxb-annotations/2.3.3/jackson-module-jaxb-annotations-2.3.3.jar" exported="true"/>
+	<classpathentry kind="lib" path="C:/Users/zharvey/.m2/repository/com/fasterxml/jackson/jaxrs/jackson-jaxrs-json-provider/2.3.3/jackson-jaxrs-json-provider-2.3.3.jar" exported="true"/>
+	<classpathentry kind="lib" path="C:/Users/zharvey/.m2/repository/io/dropwizard/dropwizard-jersey/0.7.1/dropwizard-jersey-0.7.1.jar" exported="true"/>
+	<classpathentry kind="lib" path="C:/Users/zharvey/.m2/repository/io/dropwizard/dropwizard-servlets/0.7.1/dropwizard-servlets-0.7.1.jar" exported="true"/>
+	<classpathentry kind="lib" path="C:/Users/zharvey/.m2/repository/com/codahale/metrics/metrics-jetty9/3.0.2/metrics-jetty9-3.0.2.jar" exported="true"/>
+	<classpathentry kind="lib" path="C:/Users/zharvey/.m2/repository/org/eclipse/jetty/jetty-security/9.0.7.v20131107/jetty-security-9.0.7.v20131107.jar" exported="true"/>
+	<classpathentry kind="lib" path="C:/Users/zharvey/.m2/repository/org/eclipse/jetty/jetty-servlet/9.0.7.v20131107/jetty-servlet-9.0.7.v20131107.jar" exported="true"/>
+	<classpathentry kind="lib" path="C:/Users/zharvey/.m2/repository/org/eclipse/jetty/jetty-continuation/9.0.7.v20131107/jetty-continuation-9.0.7.v20131107.jar" exported="true"/>
+	<classpathentry kind="lib" path="C:/Users/zharvey/.m2/repository/org/eclipse/jetty/jetty-servlets/9.0.7.v20131107/jetty-servlets-9.0.7.v20131107.jar" exported="true"/>
+	<classpathentry kind="lib" path="C:/Users/zharvey/.m2/repository/io/dropwizard/dropwizard-jetty/0.7.1/dropwizard-jetty-0.7.1.jar" exported="true"/>
+	<classpathentry kind="lib" path="C:/Users/zharvey/.m2/repository/com/codahale/metrics/metrics-jvm/3.0.2/metrics-jvm-3.0.2.jar" exported="true"/>
+	<classpathentry kind="lib" path="C:/Users/zharvey/.m2/repository/com/codahale/metrics/metrics-healthchecks/3.0.2/metrics-healthchecks-3.0.2.jar" exported="true"/>
+	<classpathentry kind="lib" path="C:/Users/zharvey/.m2/repository/com/codahale/metrics/metrics-json/3.0.2/metrics-json-3.0.2.jar" exported="true"/>
+	<classpathentry kind="lib" path="C:/Users/zharvey/.m2/repository/com/codahale/metrics/metrics-servlets/3.0.2/metrics-servlets-3.0.2.jar" exported="true"/>
+	<classpathentry kind="lib" path="C:/Users/zharvey/.m2/repository/net/sourceforge/argparse4j/argparse4j/0.4.3/argparse4j-0.4.3.jar" exported="true"/>
+	<classpathentry kind="lib" path="C:/Users/zharvey/.m2/repository/org/eclipse/jetty/toolchain/setuid/jetty-setuid-java/1.0.2/jetty-setuid-java-1.0.2.jar" exported="true"/>
+</classpath>

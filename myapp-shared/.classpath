@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/groovy"/>
+	<classpathentry kind="src" path="src/main/resources"/>
+	<classpathentry kind="src" path="src/test/groovy"/>
+	<classpathentry kind="src" path="src/test/resources"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER" exported="true"/>
+	<classpathentry kind="con" path="GROOVY_DSL_SUPPORT" exported="true"/>
+	<classpathentry kind="output" path="bin"/>
+	<classpathentry sourcepath="C:/Users/zharvey/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy-all/2.3.7/430d925914612a724c2cda9ddd6d3df58723abe6/groovy-all-2.3.7-sources.jar" kind="lib" path="C:/Users/zharvey/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy-all/2.3.7/feb6df9c6936c797159091a451ed8590d67101dc/groovy-all-2.3.7.jar" exported="true"/>
+	<classpathentry kind="lib" path="C:/Users/zharvey/.m2/repository/com/google/inject/guice/3.0/guice-3.0.jar" exported="true"/>
+	<classpathentry kind="lib" path="C:/Users/zharvey/.m2/repository/javax/inject/javax.inject/1/javax.inject-1.jar" exported="true"/>
+	<classpathentry kind="lib" path="C:/Users/zharvey/.m2/repository/aopalliance/aopalliance/1.0/aopalliance-1.0.jar" exported="true"/>
+	<classpathentry kind="lib" path="C:/Users/zharvey/.m2/repository/asm/asm/3.1/asm-3.1.jar" exported="true"/>
+	<classpathentry sourcepath="C:/Users/zharvey/.gradle/caches/modules-2/files-2.1/org.sonatype.sisu.inject/cglib/2.2.1-v20090111/65030c30094de36e3fddbc22442d47cbf547741f/cglib-2.2.1-v20090111-sources.jar" kind="lib" path="C:/Users/zharvey/.gradle/caches/modules-2/files-2.1/org.sonatype.sisu.inject/cglib/2.2.1-v20090111/7ce5e983fd0e6c78346f4c9cbfa39d83049dda2/cglib-2.2.1-v20090111.jar" exported="true"/>
+</classpath>
